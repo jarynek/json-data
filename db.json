@@ -1,14 +1,7 @@
-[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "jarynek delectus aut autem",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "jarynek quis ut nam facilis et officia qui",
-    "completed": false
-  }
-]
+{
+  "users": [
+    { "id": 1, "name": "Jarynek1" },
+    { "id": 2, "name": "Jarynek1" },
+    { "id": 3, "name": "Jarynek1" }
+  ]
+}
