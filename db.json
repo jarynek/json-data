@@ -15,12 +15,5 @@
       "gender": "Male",
       "ip_address": "67.76.188.26"
     }
-  ],
-  "nav": [
-    {id: 1, menu: 'My aukro', slug: 'my_aukro', icon: 'account_circle', active: false},
-    {id: 2, menu: 'Favorite', slug: 'favorite', icon: 'favorite', active: false},
-    {id: 3, menu: 'Sledované', slug: 'monitored', icon: 'visibility', active: false},
-    {id: 4, menu: 'Košík', slug: 'basket', icon: 'shopping_cart', active: false},
-    {id: 5, menu: 'Burger', slug: 'burger', icon: 'menu', active: false},
   ]
 }
