@@ -16,8 +16,6 @@
       "ip_address": "67.76.188.26"
     }
   ],
-},
-{
   "nav": [
     { "id": 1,
       "menu": "My aukro",
@@ -50,4 +48,4 @@
       "active": false
     }
   ]
-}
+},
