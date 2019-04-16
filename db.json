@@ -1,10 +1,10 @@
 {
   "nav": [
-    {"id": 1, "menu": "My aukro", "slug": "my_aukro", "icon": "account_circle", "active": false, "link": false},
-    {"id": 2, "menu": "Favorite", "slug": "favorite", "icon": "favorite", "active": false, "link": false},
-    {"id": 3, "menu": "Sledované", "slug": "monitored", "icon": "visibility", "active": false, "link": false},
-    {"id": 4, "menu": "Košík", "slug": "basket", "icon": "shopping_cart", "active": false, "link": false},
-    {"id": 5, "menu": "Menu", "slug": "menu", "icon": "menu", "active": false, "link": false}
+    {"id": 1, "menu": "My aukro", "slug": "my_aukro", "icon": "account_circle", "active": false, "link": null},
+    {"id": 2, "menu": "Favorite", "slug": "favorite", "icon": "favorite", "active": false, "link": null},
+    {"id": 3, "menu": "Sledované", "slug": "monitored", "icon": "visibility", "active": false, "link": null},
+    {"id": 4, "menu": "Košík", "slug": "basket", "icon": "shopping_cart", "active": false, "link": null},
+    {"id": 5, "menu": "Menu", "slug": "menu", "icon": "menu", "active": false, "link": null}
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
