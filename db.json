@@ -1,9 +1,9 @@
 {
   "nav": [
     {"id": 1, "menu": "My aukro", "slug": "my_aukro", "icon": "account_circle", "active": false, "link": null},
-    {"id": 2, "menu": "Favorite", "slug": "favorite", "icon": "favorite", "active": false, "link": null},
-    {"id": 3, "menu": "Sledované", "slug": "monitored", "icon": "visibility", "active": false, "link": null},
-    {"id": 4, "menu": "Košík", "slug": "basket", "icon": "shopping_cart", "active": false, "link": null},
+    {"id": 2, "menu": "Favorite", "slug": "favorite", "icon": "favorite", "active": false, "link": "/moje-aukro/moje-nakupy/oblibeni-prodejci"},
+    {"id": 3, "menu": "Sledované", "slug": "monitored", "icon": "visibility", "active": false, "link": "/moje-aukro/moje-nakupy/sledovani"},
+    {"id": 4, "menu": "Košík", "slug": "basket", "icon": "shopping_cart", "active": false, "link": "/kosik"},
     {"id": 5, "menu": "Menu", "slug": "menu", "icon": "menu", "active": false, "link": null}
   ],
   "posts": [
