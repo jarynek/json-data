@@ -1,4 +1,26 @@
 {
+  "gallery": [
+    {
+      "img": "img1.jpg",
+      "title": "Image one"
+    },
+    {
+      "img": "img2.jpg",
+      "title": "Image two"
+    },
+    {
+      "img": "img3.jpg",
+      "title": "Image three"
+    },
+    {
+      "img": "img4.jpg",
+      "title": "Image four"
+    },
+    {
+      "img": "img5.jpg",
+      "title": "Image five"
+    }
+  ],
   "graph": [
     {
       "date": 1493922600000,
