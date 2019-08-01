@@ -285,5 +285,68 @@
     "greeting": "Hello, Valeria Puckett! You have 7 unread messages.",
     "favoriteFruit": "apple"
   }
+],
+"parking": [
+  {
+  "type": "Garage",
+  "provider": {
+    "name": "Operator Ltd.",
+    "contact": "Phone 577 100 589"
+  },
+  "capacity": {
+    "total": 120,
+    "grouped": [{
+      "permit": "TaxiPermit",
+      "total": 10
+    }]
+  },
+  "payments": [
+    "Cash",
+    "Card",
+    "Sms"
+  ],
+  "accessibility": {
+    "wheelchair": true,
+    "lpg": false,
+    "maxHeight": "200",
+    "maxLength": "400",
+    "maxWidth": "250"
+  },
+  "openingHours": [{
+    "dayOfWeek": ["Monday", "Tuesday"],
+    "opens": "09:00",
+    "duration": 480
+  }],
+  "images": {
+    "detailUri": "https://invipo.local/contents/donwload/507f1f77bcf86cd799439011"
+  },
+  "devices": [{
+    "name": "et1",
+    "type": "EntryTerminal",
+    "level": 0,
+    "description": "Entry terminal at Bay Street",
+    "position": {
+      "type": "Point",
+      "coordinates": [
+        17.991249561309814, 49.338986542414744
+      ]
+    }
+  }],
+  "floors": [{
+    "level": 0,
+    "name": "Ground parking",
+    "polygon": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [17.991206645965576, 49.33923820771258],
+          [17.99083113670349, 49.33912635662798],
+          [17.99161434173584, 49.33904246814772],
+          [17.991206645965576, 49.33923820771258]
+        ]
+      ]
+    }
+  }]
+}
 ]
 }
