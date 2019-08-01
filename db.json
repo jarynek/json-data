@@ -21,44 +21,6 @@
       "title": "Image five"
     }
   ],
-  "graph": [
-    {
-      "date": 1493922600000,
-      "units": 320
-    },
-    {
-      "date": 1494009000000,
-      "units": 552
-    },
-    {
-      "date": 1494095400000,
-      "units": 342
-    },
-    {
-      "date": 1494181800000,
-      "units": 431
-    },
-    {
-      "date": 1494268200000,
-      "units": 251
-    },
-    {
-      "date": 1494354600000,
-      "units": 445
-    }
-  ],
-  "nav": [
-    {"id": 1, "menu": "My aukro", "slug": "my_aukro", "icon": "account_circle", "active": false, "link": null},
-    {"id": 2, "menu": "Favorite", "slug": "favorite", "icon": "favorite", "active": false, "link": "/moje-aukro/moje-nakupy/oblibeni-prodejci"},
-    {"id": 3, "menu": "Sledované", "slug": "monitored", "icon": "visibility", "active": false, "link": "/moje-aukro/moje-nakupy/sledovani"},
-    {"id": 4, "menu": "Košík", "slug": "basket", "icon": "shopping_cart", "active": false, "link": "/kosik"},
-    {"id": 5, "menu": "Menu", "slug": "menu", "icon": "menu", "active": false, "link": null}
-  ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
   "map": [
     {
       "_id": "5cd3f5020e13b70e568e636c",
