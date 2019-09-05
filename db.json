@@ -1,4 +1,38 @@
 {
+  "invipoDatabases": [
+    {
+      "id": "invipo1",
+      "name": "invipo1"
+    },
+    {
+      "id": "invipo2",
+      "name": "invipo1"
+    },
+    {
+      "id": "invipo3",
+      "name": "invipo3"
+    }
+  ],
+  "invipoItem": [
+    {
+      "timestamp" : "timestamp",
+      "item" : {
+        "_id" : "_id",
+        "name" : "Invipo Services",
+        "type" : "System",
+        "shortcut" : "Invipo Services",
+        "class" : "System.InvipoServices",
+        "producer" : "Incinity s.r.o.",
+        "model" : "11"
+      },
+      "type" : "UserLoggedInEvent",
+      "actor" : {
+        "type" : "Service",
+        "_id" : "5bbe480d53328f00017d8e5b",
+        "name" : "Administrator"
+      }
+    }
+  ],
   "gallery": [
     {
       "img": "img1.jpg",
