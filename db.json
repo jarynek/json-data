@@ -13,6 +13,20 @@
       "name": "invipo3"
     }
   ],
+  "invipoCollections": [
+    {
+      "id": "1",
+      "name": "services.items"
+    },
+    {
+      "id": "2",
+      "name": "parking.system.occupancies"
+    },
+    {
+      "id": "3",
+      "name": "parking.vehicles"
+    }
+  ],
   "invipoItem": [
     {
       "timestamp" : "timestamp",
