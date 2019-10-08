@@ -1,10 +1,12 @@
 {
+    "emptyUser": [],
   "user": [
     {
       "id": "1",
       "name": "User One",
       "login": "userOne@seznam.cz",
-      "password": "kamsdasda"
+      "password": "kamsdasda",
+      "role": "visitor"
     }
   ],
   "invipoDatabases": [
