@@ -25,7 +25,8 @@
       "name": "User One",
       "login": "userOne@seznam.cz",
       "password": "kamsdasda",
-      "role": "visitor"
+      "role": "visitor",
+      "modules": ["roles", "parking"]
     }
   ],
   "invipoDatabases": [
