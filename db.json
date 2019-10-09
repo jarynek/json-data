@@ -26,7 +26,7 @@
       "login": "userOne@incinity.cz",
       "password": "userone",
       "role": "visitor",
-      "modules": ["roles", "parking"]
+      "modules": ["roles", "parking", "street_lights"]
     },
     {
       "id": "2",
