@@ -23,10 +23,18 @@
     {
       "id": "1",
       "name": "User One",
-      "login": "userOne@seznam.cz",
-      "password": "kamsdasda",
+      "login": "userOne@incinity.cz",
+      "password": "userone",
       "role": "visitor",
       "modules": ["roles", "parking"]
+    },
+    {
+      "id": "2",
+      "name": "User Two",
+      "login": "userTwo@incinity.cz",
+      "password": "usertwo",
+      "role": "visitor",
+      "modules": ["parking"]
     }
   ],
   "invipoDatabases": [
