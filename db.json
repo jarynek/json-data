@@ -34,7 +34,7 @@
       "login": "userTwo@incinity.cz",
       "password": "usertwo",
       "role": "visitor",
-      "modules": ["parking"]
+      "modules": ["dashboard", "roles"]
     }
   ],
   "invipoDatabases": [
